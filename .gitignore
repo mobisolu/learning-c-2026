@@ -1,0 +1,4 @@
+# build output
+main
+*.o
+*.out
